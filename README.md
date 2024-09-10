@@ -1,5 +1,6 @@
 # pro1.
 
+pip install requests
 import requests
 import re
 
